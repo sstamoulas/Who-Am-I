@@ -28,5 +28,5 @@ const words = [
   'Plato',
   'Leo Tolstoy',
   'Pablo Picasso',
-  'Muhaammed Ali'
+  'Muhammed Ali'
 ];
